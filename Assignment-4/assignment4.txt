@@ -1,0 +1,5 @@
+1. Implement histogram and compare the result with built-in histogram function.
+2. Implement neighborhood processing and compare the result with built-in cv2.filter2D.
+
+    
+    

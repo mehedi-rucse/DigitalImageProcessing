@@ -1,0 +1,3 @@
+Show the effect of 6 different kinds of kernels on a 2D image.
+Conditions:
+Kernels of each student  need to be  different from other students and kernels used in provided code.
